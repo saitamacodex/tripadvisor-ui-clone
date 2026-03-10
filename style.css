@@ -1,0 +1,13 @@
+:root {
+  --ta-sans-serif: "Trip Sans VF", "Trip Sans", Arial, sans-serif;
+  --ta-serif: Georgia, "Times New Roman", "Century Schoolbook L", serif;
+  --ta-monospace: "Trip Sans Mono", Courier, monospace, Arial, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
