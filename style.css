@@ -88,3 +88,18 @@ nav {
   padding-right: 0.5rem;
   border-right: 1px solid #1a1a1a;
 }
+
+.nav-btn-ai button {
+  font-size: 1rem;
+  font-weight: 580;
+  padding: 9.5px 1rem;
+  border-radius: 2rem;
+  border: 1px solid #f7f7f7;
+  background: #ffff;
+  box-shadow: rgba(15, 255, 2, 0.672) 0px 5px 15px;
+}
+
+.nav-btn-ai button:hover {
+  background: #e5e5e5;
+  border: 1px solid #e5e5e5;
+}
