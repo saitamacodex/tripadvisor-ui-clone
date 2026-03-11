@@ -20,10 +20,71 @@ body {
 header {
   position: sticky;
   top: 0;
+  margin-top: 10px;
 }
 
 .boxContainer {
   max-width: 1200px;
-  width: 90%;
+  width: 85%;
   margin: 0 auto;
+}
+
+.nav-container {
+  padding: 0 24px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-list-items ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.nav-list-items ul > li {
+  padding: 9.5px 16px;
+  font-size: 1rem;
+  font-weight: 550;
+}
+
+.nav-list-items ul li:hover {
+  background-color: #e5e5e5;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+.nav-btn button:first-child {
+  padding: 9.5px 1rem;
+  border: none;
+  background: none;
+  font-size: 1rem;
+  font-weight: 550;
+}
+
+.nav-btn button:first-child:hover {
+  background-color: #e5e5e5;
+  border-radius: 2rem;
+  cursor: pointer;
+}
+
+.nav-btn button:last-child {
+  padding: 9.5px 1rem;
+  background-color: #002b11;
+  color: #f7f7f7;
+  font-size: 1rem;
+  border-radius: 2rem;
+}
+
+.nav-btn button:first-child::before {
+  content: "🌐";
+  font-size: 1rem;
+  margin-right: 0.5rem;
+  padding-right: 0.5rem;
+  border-right: 1px solid #e5e5e5;
 }
