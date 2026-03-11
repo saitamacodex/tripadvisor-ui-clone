@@ -51,6 +51,7 @@ nav {
   padding: 9.5px 16px;
   font-size: 1rem;
   font-weight: 550;
+  transition: all 0.3s ease; /* Smooth transition */
 }
 
 .nav-list-items ul li:hover {
@@ -65,6 +66,7 @@ nav {
   background: none;
   font-size: 1rem;
   font-weight: 550;
+  transition: all 0.3s ease; /* Smooth transition */
 }
 
 .nav-btn button:first-child:hover {
@@ -97,6 +99,7 @@ nav {
   border: 1px solid #f7f7f7;
   background: #ffff;
   box-shadow: rgba(15, 255, 2, 0.672) 0px 5px 15px;
+  transition: all 0.3s ease;
 }
 
 .nav-btn-ai button:hover {
