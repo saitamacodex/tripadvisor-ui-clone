@@ -19,3 +19,6 @@ The goal of this project is to:
 - **CSS Grid**
 - **Responsive Design**
 
+### 📌 Disclaimer
+
+This project is for educational purposes only and is not affiliated with tripadvisor.
