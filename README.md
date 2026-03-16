@@ -10,7 +10,8 @@ The goal of this project is to:
 - Build **responsive layouts using pure CSS**
 - Avoid CSS frameworks to understand **core CSS fundamentals**
 
-## 🛠️ Built With
+### 🛠️ Built With
+
 - **HTML5**
 - **CSS3**
 - **Semantic HTML**
