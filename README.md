@@ -11,7 +11,6 @@ The goal of this project is to:
 - Avoid CSS frameworks to understand **core CSS fundamentals**
 
 ## 🛠️ Built With
-
 - **HTML5**
 - **CSS3**
 - **Semantic HTML**
