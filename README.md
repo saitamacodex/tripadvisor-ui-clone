@@ -1,6 +1,6 @@
 ## Tripadvisor clone
 
-## 📌 Project Goal
+### 📌 Project Goal
 
 The goal of this project is to:
 
